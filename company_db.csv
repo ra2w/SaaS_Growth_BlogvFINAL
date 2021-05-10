@@ -1,0 +1,76 @@
+﻿ticker,name,gtm,sector,ipo_year,ipo_month
+NTNX,Nutanix,top_down_saas,,2016,7
+API,Agora,unknown,,2020,3
+SNOW,Snowflake,top_down_saas,,2020,7
+PANW,Palo Alto Networks,top_down_saas,,2012,4
+FEYE,FireEye,top_down_saas,,2013,6
+WDAY,Workday,top_down_saas,,2012,7
+ZM,Zoom Video,bottom_up_saas,,2019,1
+CRWD,Crowdstrike,top_down_saas,,2019,4
+SHOP,Shopify,smb,,2015,3
+QTWO,Q2 Holdings,unknown,,2013,12
+TTD,The Trade Desk,unknown,,2016,6
+SPLK,Splunk,top_down_saas,,2012,1
+NOW,ServiceNow,top_down_saas,,2012,3
+ZI,Zoom Info,top_down_saas,,2020,3
+WIX,Wix.com,smb,,2013,9
+CRM,Salesforce.com,top_down_saas,,2004,4
+DDOG,Datadog,bottom_up_saas,,2019,6
+OKTA,Okta,top_down_saas,,2017,1
+ZEN,Zendesk,bottom_up_saas,,2014,3
+ESTC,Elastic N.V.,bottom_up_saas,,2018,7
+TWLO,Twilio,bottom_up_saas,,2016,3
+NEWR,New Relic,bottom_up_saas,,2014,9
+LOGM,LogMein,#N/A,,2009,3
+VEEV,Veeva Systems,top_down_saas,,2013,7
+INST,Instructure,top_down_saas,,2015,9
+SMAR,Smartsheet,bottom_up_saas,,2018,1
+WORK,Slack,bottom_up_saas,,2019,4
+COUP,Coupa Software,top_down_saas,,2016,7
+ZUO,Zuora,top_down_saas,,2018,1
+AYX,Alteryx,top_down_saas,,2016,12
+APPF,AppFolio,unknown,,2015,3
+HCAT,Health Catalyst,unknown,,2019,6
+CARB,Carbonite,unknown,,2011,6
+BILL,Bill.com,smb,,2019,9
+ZS,Zscaler,top_down_saas,,2018,1
+MDB,MongoDB,bottom_up_saas,,2017,7
+TEAM,Atlassian Corporation,bottom_up_saas,,2015,9
+NCNO,nCino,unknown,,2020,4
+NET,Cloudflare,bottom_up_saas,,2019,6
+BL,BlackLine,top_down_saas,,2016,9
+PD,PagerDuty,bottom_up_saas,,2019,1
+JFROG,JFrog,unknown,,2020,6
+CLDR,Cloudera,top_down_saas,,2017,1
+RPD,Rapid7,top_down_saas,,2015,6
+TENB,Tenable Holdings,top_down_saas,,2018,6
+PLTR,Palantir,top_down_saas,,2020,6
+PLAN,Anaplan,top_down_saas,,2018,7
+FSLY,Fastly,bottom_up_saas,,2019,3
+SAIL,SailPoint Technologies,unknown,,2017,9
+RNG,Ringcentral,unknown,,2013,6
+YEXT,Yext,top_down_saas,,2017,1
+TLND,Talend S.A.,bottom_up_saas,,2016,6
+DOCU,DocuSign,bottom_up_saas,,2018,1
+MDSO,Medidata Solutions,unknown,,2009,3
+PS,Pluralsight,top_down_saas,,2018,3
+MDLA,Medallia,top_down_saas,,2019,4
+DOMO,Domo,top_down_saas,,2018,4
+WK,Workiva,top_down_saas,,2014,9
+RP,RealPage,unknown,,2010,6
+SPT,Sprout Social,unknown,,2019,9
+CYBR,CyberArk Software,unknown,,2014,6
+DBX,Dropbox,bottom_up_saas,,2017,12
+PING,Ping Identity,unknown,,2019,6
+AVLR,Avalara,top_down_saas,,2018,3
+DT,Dynatrace,unknown,,2019,6
+GDDY,GoDaddy,unknown,,2015,3
+SVMK,Survey Monkey,bottom_up_saas,,2018,6
+SWI,SolarWinds,unknown,,2018,9
+BAND,Bandwidth,unknown,,2017,9
+APPN,Appian Corporation,unknown,,2017,3
+PCTY,Paylocity,unknown,,2013,12
+SYMC,Symantec Corporation,top_down_saas,,2010,9
+FSCT,ForeScout Technologies,unknown,,2017,9
+CSOD,Cornerstone OnDemand,top_down_saas,,2010,12
+PATH,UI Path,top_down_saas,,2021,4
